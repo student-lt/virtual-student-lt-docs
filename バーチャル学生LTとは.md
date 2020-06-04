@@ -32,3 +32,17 @@
 - 参加者5人
 - YouTube Live
 - Sigmaさん
+
+### 第32回 学生LT大会！！！ in cluster
+- [Conpassページ](https://student-lt.connpass.com/event/165324/)
+- 2020年2月2日
+- 参加者2人
+- cluster
+- laminne
+
+### 第4回バーチャル学生LT On YouTube LIVE
+- [Conpassページ](https://student-lt.connpass.com/event/165324/)
+- 2020年5月9日
+- 参加者(視聴者含め)
+- YouTube Live + Mixer
+- laminne
